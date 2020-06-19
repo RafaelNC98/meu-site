@@ -1,0 +1,109 @@
+@import url('//fonts.googleapis.com/css?family=Lato');
+.tam {
+  width: 190px;
+}
+
+.clear {
+  clear: both;
+}
+
+.BackgroundHeader {
+  background: #0267C1;
+}
+
+.Img {
+  width: 70px;
+}
+
+.buttonBuscar {
+  background: #D65108 !important;
+}
+
+.LogoMinhaConta {
+  width: 20px;
+}
+
+.logoMarca {
+  width: 90px;
+}
+
+* {
+  font-family: 'Lato', sans-serif !important;
+  font-size: 19px !important;
+  font-weight: bold !important;
+}
+
+.LarguraHeader {
+  width: 1900px;
+}
+
+.buttonMinhaconta {
+  background: #D65108 !important;
+  ;
+}
+
+.Oferta {
+  margin-top: 10px;
+  background: #0267C1;
+}
+
+.center {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.MarginFooter {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.ImgFooter {
+  margin-left: 10px;
+  width: 340px;
+}
+
+.Espaçamento-produto {
+  padding: 10px;
+}
+
+.imgProduto {
+  
+  height: 150px !important;
+  object-fit: contain;
+}
+
+.backTituloUser{
+  text-align: center;
+  height: 150px;
+  background-color: #0267C1;
+
+}
+
+#titulo{
+  padding-top: 6px;
+  font-size: 22px !important;
+}
+
+.containerForm{
+  margin: 10px;
+
+}
+
+.linha{
+  border-bottom:  5px solid black;
+}
+
+.Cancelar{
+  width: 20px;
+}
+
+.Espacamento{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.ButtonCadastro{
+
+  background-color: #0267C1 !important;
+  width: 180px;
+}
